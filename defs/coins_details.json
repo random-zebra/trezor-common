@@ -438,6 +438,19 @@
                 }
             ]
         },
+        "bitcoin:PIVX": {
+            "links": {
+                "Github": "https://github.com/PIVX-Project/PIVX",
+                "Homepage": "https://pivx.org/"
+            },
+            "marketcap_usd": 384100,
+            "name": "PIVX",
+            "shortcut": "PIVX",
+            "t1_enabled": "soon",
+            "t2_enabled": "soon",
+            "type": "coin",
+            "wallet": []
+        },        
         "bitcoin:PTC": {
             "links": {
                 "Github": "https://github.com/FundacionPesetacoin/PesetacoinCore",
